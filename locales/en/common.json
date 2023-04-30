@@ -1,6 +1,9 @@
 {
   "hello": "Hello world",
-  "en" : "English",
-  "mm" : "မြန်မာ",
-  "dummy-text" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates omnis natus temporibus magnam nisi at nostrum commodi ea autem, error dolores laboriosam ipsam maxime corporis quae, reprehenderit ipsum quasi harum!"
+  "en": "English",
+  "mm": "မြန်မာ",
+  "title": "Glossary",
+  "description": "Can be defined as a list of terms in a special subject, field, or area of usage, with accompanying definitions.",
+  "gotoTop": "Go to Top",
+  "contact": "ContactUs"
 }

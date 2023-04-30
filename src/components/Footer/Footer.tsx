@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div className="py-6 text-center text-gray-400 bg-accent flex-end">
-      All Right Reserved. Blah blah blah
+      @ 2023, All Right Reserved.
     </div>
   );
 };
